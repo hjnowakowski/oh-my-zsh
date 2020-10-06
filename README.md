@@ -1,3 +1,9 @@
+## Changes in this fork
+
+As commited [here](https://github.com/hjnowakowski/oh-my-zsh/commit/581cc783ec4640f1d457aae89e0d0e9055162948) I've simplified the agnoster prompt so it looks nicer.
+
+
+
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
